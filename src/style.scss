@@ -1,0 +1,23 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+html,
+body {
+    height: 100%;
+}
+
+#app {
+    display: flex;
+    justify-content: center;
+    height: 100%;
+
+    align-items: center;
+}
+
+.grid_wrap {
+    display: grid;
+
+    .item_grid {}
+}
